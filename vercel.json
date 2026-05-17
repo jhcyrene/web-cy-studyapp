@@ -11,8 +11,5 @@
             "src": "/(.*)",
             "dest": "/api/index.php"
         }
-    ],
-    "overrides": {
-        "api/index.php": { "bundle": true }
-    }
+    ]
 }
